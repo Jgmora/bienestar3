@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:php-simple-sq-scanner
+serverUrl=https://sonarqube.prueba.com
+dashboardUrl=https://sonarqube.prueba.com/dashboard/index/org.sonarqube:php-simple-sq-scanner
+ceTaskId=AViOBB5-kCpJDR5weQD6
+ceTaskUrl=https://sonarqube.prueba.com/api/ce/task?id=AViOBB5-kCpJDR5weQD6
